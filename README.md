@@ -1,52 +1,31 @@
-<h1>Hi there, I'm Moh! <br/><a href="https://github.com/mohbkceo">Developer</a>, <a href="https://www.linkedin.com/in/mohbkceo/">Researcher</a> <h1/>
+<h1>Moh, <br/><a href="https://github.com/mohbkceo">focus on Backend Dev</a> | <a href="https://www.linkedin.com/in/mohbkceo/">Researcher</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2 Backend & Blockchain Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Node.js & Express Backend Apps i worked on & working on</b>
+  - REST APIs, authentication, and database integrations
+- <b>MongoDB / Database Management</b>
+  - Data modeling, queries, aggregation pipelines
+- <b>Full Stack Projects (Backend Focus)</b>
+  - Implemented scalable server-side logic, authentication, and cloud deployment
+- <b>Blockchain & Smart Contracts</b>
+  - Research and experiments with blockchain authority concepts
+- <b>System Programming & Networking</b>
+  - Socket programming, concurrency, and server optimization
+- <b>Automation & Scripting</b>
+  - Server-side automation using Node.js and PowerShell
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Technologies & Tools i use;</h2>
 
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Node.js, Express.js, MongoDB, Redis
+- C++, (backend scripts & algorithms)
+- ~ tools: Docker, Linux, Git, Postman
+- Blockchain frameworks and smart contract research
 
-<h2> 🤳 Connect with me:</h2>
+<h2>call me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-[twitter]: https://twitter.com/mohbk226
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/mohbk__22__6/
-[linkedin]: https://www.linkedin.com/in/mohammed-bakelli-2a387a27b/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/mohbkceo/
+[github]: https://github.com/mohbkceo
